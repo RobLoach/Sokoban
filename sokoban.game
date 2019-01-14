@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+   <title source="assets/titlescreen.png"/>
+   <menu_bg source="assets/level_select_bg.png"/>
+   <game_bg source="assets/bg.png"/>
+   <end_bg source="assets/ending.png"/>
+   <font source="sokoban.font"/>
+   <level_complete source="assets/finished.png"/>
+   <lock_sprite source="assets/lock.png"/>
+   <sfx>
+      <sound source="assets/sfx/level_next.wav" name="level_next"/>
+      <sound source="assets/sfx/chapter_locked.wav" name="chapter_locked"/>
+      <sound source="assets/sfx/ice_bump.wav" name="ice_bump"/>
+      <sound source="assets/sfx/frozen_dino_melt.wav" name="frozen_dino_melt"/>
+      <sound source="assets/sfx/dino_jump.wav" name="dino_jump"/>
+      <sound source="assets/sfx/dino_push.wav" name="dino_push"/>
+   </sfx>
+   <music>
+      <bg source="assets/bg/theme.ogg" volume="0.25"/>
+      <bg source="assets/bg/bg1.ogg"/>
+      <bg source="assets/bg/bg2.ogg"/>
+      <bg source="assets/bg/bg3.ogg"/>
+      <bg source="assets/bg/bg4.ogg" volume="0.75"/>
+      <bg source="assets/bg/bg5.ogg" volume="0.65"/>
+      <bg source="assets/bg/bg8.ogg" volume="0.70"/>
+   </music>
+   <chapter name="Chapter 1" minimum_clear="5">
+      <map source="level_1-1.tmx"/>
+      <map source="level_1-2.tmx"/>
+   </chapter>
+</game>
