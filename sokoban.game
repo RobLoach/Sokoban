@@ -27,5 +27,6 @@
    <chapter name="Chapter 1" minimum_clear="5">
       <map source="level_1-1.tmx"/>
       <map source="level_1-2.tmx"/>
+      <map source="level_1-3.tmx"/>
    </chapter>
 </game>
