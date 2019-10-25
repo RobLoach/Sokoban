@@ -6,7 +6,7 @@
 
 ## Contribute
 
-Right now, it only implements a select few of the levels, would love to see this grow! Feel free to open up [Tiled](https://www.mapeditor.org) and have your hack at adding more levels.
+Right now, it only implements the first few levels, would love to see this grow! Feel free to open up [Tiled](https://www.mapeditor.org) and have your hack at adding more levels.
 
 ## Credits
 

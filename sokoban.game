@@ -24,9 +24,10 @@
       <bg source="assets/bg/bg5.ogg" volume="0.65"/>
       <bg source="assets/bg/bg8.ogg" volume="0.70"/>
    </music>
-   <chapter name="Chapter 1" minimum_clear="5">
+   <chapter name="Chapter 1" minimum_clear="4">
       <map source="level_1-1.tmx"/>
       <map source="level_1-2.tmx"/>
       <map source="level_1-3.tmx"/>
+      <map source="level_1-4.tmx"/>
    </chapter>
 </game>
